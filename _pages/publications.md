@@ -5,12 +5,30 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+# 2020
 
-{% include base_path %}
+<b>[Practical Federated Gradient Boosting Decision Trees](https://arxiv.org/abs/1911.04206) </b>  <br>
+<b>Qinbin Li</b>, Zeyi Wen, Bingsheng He<br>
+<i>Thirty-Fourth AAAI Conference on Artificial Intelligence</i>. <b>AAAI 2020</b>. [[PDF]](https://arxiv.org/pdf/1911.04206.pdf)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<b>[Privacy-Preserving Gradient Boosting Decision Trees](https://arxiv.org/abs/1911.04209) </b>  <br>
+<b>Qinbin Li</b>, Zhaomin Wu, Zeyi Wen, Bingsheng He<br>
+<i>Thirty-Fourth AAAI Conference on Artificial Intelligence</i>. <b>AAAI 2020</b>. [[PDF]](https://arxiv.org/pdf/1911.04209.pdf)
+
+# 2019
+<b>[Adaptive Kernel Value Caching for SVM Training](https://arxiv.org/abs/1911.03011) </b>  <br>
+<b>Qinbin Li</b>, Zeyi Wen, Bingsheng He<br>
+<i>IEEE Transactions on Neural Networks and Learning Systems</i>. <b>TNNLS 2019</b>. [[PDF]](https://arxiv.org/abs/1911.03011.pdf)
+
+<b>[Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection](https://arxiv.org/abs/1907.09693) </b>  <br>
+<b>Qinbin Li</b>, Zeyi Wen, Zhaomin Wu, Sixu Hu, Naibo Wang, Bingsheng He<br>
+<i>arXiv preprint</i>. [[PDF]](https://arxiv.org/abs/1907.09693.pdf)
+
+<b>[Exploiting GPUs for Efficient Gradient Boosting Decision Tree Training](https://zeyiwen.github.io/papers/tpds19_gpugbdt.pdf) </b> <br>
+Zeyi Wen, Jiashuai Shi, Bingsheng He, Jian Chen, Kotagiri Ramamohanarao, <b>Qinbin Li</b><br>
+<i>IEEE Transactions on Parallel and Distributed Systems</i>. <b>TPDS 2019</b>. [[PDF]](https://zeyiwen.github.io/papers/tpds19_gpugbdt.pdf)
+
+# 2018
+<b>[ThunderSVM: A Fast SVM Library on GPUs and CPUs](http://www.jmlr.org/papers/volume19/17-740/17-740.pdf) </b>  <br>
+Zeyi Wen, Jiashuai Shi, <b>Qinbin Li</b>, Bingsheng He, Jian Chen<br>
+<i>Journal of Machine Learning Research</i>. <b>JMLR 2018</b>. [[PDF]](http://www.jmlr.org/papers/volume19/17-740/17-740.pdf)
