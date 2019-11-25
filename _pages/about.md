@@ -19,7 +19,7 @@ My research interests include machine learning, federated learning, and privacy.
 * Sep 2019: One paper accepted to IEEE TNNLS.
 * Aug 2019: I gave a talk about our federated learning [survey](https://arxiv.org/pdf/1907.09693.pdf) at FML workshop in IJCAI 2019. We will periodically update this survey.
 * May 2019: One paper accepted to IEEE TPDS.
-* Mar 2019: [ThunderGBM](https://github.com/Xtra-Computing/thundergbm) (leaded by Dr. [Zeyi Wen](https://zeyiwen.github.io/)) released.
+* Mar 2019: [ThunderGBM](https://github.com/Xtra-Computing/thundergbm) (led by Dr. [Zeyi Wen](https://zeyiwen.github.io/)) released.
 * Aug 2018: I started my Ph.D. study at NUS.
-* Jul 2018: [ThunderSVM](https://github.com/Xtra-Computing/thundersvm) (leaded by Dr. [Zeyi Wen](https://zeyiwen.github.io/)) released and published to JMLR.
+* Jul 2018: [ThunderSVM](https://github.com/Xtra-Computing/thundersvm) (led by Dr. [Zeyi Wen](https://zeyiwen.github.io/)) released and published to JMLR.
 
