@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-## Talks
+
 * Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection
     * FML workshop. IJCAI, Macao, Aug 2019.
     
