@@ -11,7 +11,7 @@ redirect_from:
 I am a second-year Ph.D. student in Department of Computer Science at [National University of Singapore](http://www.nus.edu.sg/), advised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/).
 Previously, I obtained my bachelor's degree from ACM Class, Huazhong University of Science and Technology. 
 
-My research interests include machine learning, federated learning, and privacy.
+My current research interests lie in machine learning, federated learning, and privacy.
 
 
 # Recent News
