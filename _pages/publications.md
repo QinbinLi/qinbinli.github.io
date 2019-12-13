@@ -9,18 +9,18 @@ author_profile: true
 
 <b>[Practical Federated Gradient Boosting Decision Trees](https://arxiv.org/abs/1911.04206) </b>  <br>
 <b>Qinbin Li</b>, Zeyi Wen, Bingsheng He<br>
-<i>Thirty-Fourth AAAI Conference on Artificial Intelligence</i>. <b>AAAI 2020</b>. [[PDF]](https://arxiv.org/pdf/1911.04206.pdf)
+<i>Thirty-Fourth AAAI Conference on Artificial Intelligence</i>. <b>AAAI 2020</b>. [[PDF]](https://qinbinli.com/files/SimFL_AAAI20.pdf)
 
 <b>[Privacy-Preserving Gradient Boosting Decision Trees](https://arxiv.org/abs/1911.04209) </b>  <br>
 <b>Qinbin Li</b>, Zhaomin Wu, Zeyi Wen, Bingsheng He<br>
-<i>Thirty-Fourth AAAI Conference on Artificial Intelligence</i>. <b>AAAI 2020</b>. [[PDF]](https://arxiv.org/pdf/1911.04209.pdf)
+<i>Thirty-Fourth AAAI Conference on Artificial Intelligence</i>. <b>AAAI 2020</b>. [[PDF]](https://qinbinli.com/files/DPBoost_AAAI20.pdf)
 
 # 2019
 <b>[Adaptive Kernel Value Caching for SVM Training](https://arxiv.org/abs/1911.03011) </b>  <br>
 <b>Qinbin Li</b>, Zeyi Wen, Bingsheng He<br>
-<i>IEEE Transactions on Neural Networks and Learning Systems</i>. <b>TNNLS 2019</b>. [[PDF]](https://arxiv.org/pdf/1911.03011.pdf)
+<i>IEEE Transactions on Neural Networks and Learning Systems</i>. <b>TNNLS 2019</b>. [[PDF]](https://qinbinli.com/files/SVMcaching_TNNLS19.pdf)
 
-<b>[Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection](https://arxiv.org/abs/1907.09693) </b>  <br>
+<b>[A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection](https://qinbinli.com/files/FLSurvey.pdf) </b>  <br>
 <b>Qinbin Li</b>, Zeyi Wen, Zhaomin Wu, Sixu Hu, Naibo Wang, Bingsheng He<br>
 <i>arXiv preprint</i>. [[PDF]](https://arxiv.org/pdf/1907.09693.pdf)
 
