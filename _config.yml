@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Qinbin Li's Homepage"
 title_separator          : "-"
 name                     : &name "Qinbin Li"
-description              : &description "Ph.D student, Department of Computer Science, National University of Singapore"
+description              : &description "Ph.D. student, Department of Computer Science, National University of Singapore"
 url                      : https://godqinbin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "GODqinbin/godqinbin.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "GODqinbin"
 facebook:
   username               :
   app_id                 :
