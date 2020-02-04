@@ -15,6 +15,7 @@ My current research interests lie in machine learning, federated learning, and p
 
 
 # Recent News
+* Feb 2020: I will attend IBM Federated Learning Workshop and AAAI 2020.
 * Jan 2020: Received research achievement award from NUS Computing.
 * Nov 2019: Two papers accepted to AAAI 2020.
 * Sep 2019: One paper accepted to IEEE TNNLS.
