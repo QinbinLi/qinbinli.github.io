@@ -20,6 +20,6 @@ My research interests include machine learning, federated learning, and privacy.
 * B.Eng. - Computer Science (Sep 2014 - Jun 2018)
     * Huazhong University of Science and Technology
     
-## Personal
+## Miscellaneous
 I like music, dessert, and anime.
 
