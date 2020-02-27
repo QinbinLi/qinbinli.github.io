@@ -21,5 +21,5 @@ My research interests include machine learning, federated learning, and privacy.
     * Huazhong University of Science and Technology
     
 ## Miscellaneous
-I like music, dessert, and anime.
+I enjoy listening to music.
 
