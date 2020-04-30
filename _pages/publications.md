@@ -20,7 +20,7 @@ author_profile: true
 <b>Qinbin Li</b>, Zeyi Wen, Bingsheng He<br>
 <i>IEEE Transactions on Neural Networks and Learning Systems</i>. <b>TNNLS 2019</b>. [[PDF]](https://arxiv.org/pdf/1911.03011.pdf)
 
-<b>[A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection](https://qinbinli.com/files/FLSurvey.pdf) </b>  <br>
+<b>[A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection](https://arxiv.org/abs/1907.09693) </b>  <br>
 <b>Qinbin Li</b>, Zeyi Wen, Zhaomin Wu, Sixu Hu, Naibo Wang, Bingsheng He<br>
 <i>arXiv preprint</i>. [[PDF]](https://arxiv.org/pdf/1907.09693.pdf)
 
