@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 # 2020
+<b>[ThunderGBM: Fast GBDTs and Random Forests on GPUs](https://github.com/Xtra-Computing/thundergbm) </b> <br>
+Zeyi Wen, Hanfeng Liu, Jiashuai Shi, <b>Qinbin Li</b>, Bingsheng He, Jian Chen<br>
+<i>Journal of Machine Learning Research</i>. <b>JMLR 2020</b>. [[PDF]](https://github.com/Xtra-Computing/thundergbm/blob/master/thundergbm-full.pdf)
+
 
 <b>[Practical Federated Gradient Boosting Decision Trees](https://arxiv.org/abs/1911.04206) </b>  <br>
 <b>Qinbin Li</b>, Zeyi Wen, Bingsheng He<br>
