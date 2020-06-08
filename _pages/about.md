@@ -16,6 +16,7 @@ My current research interests lie in machine learning, federated learning, and p
 
 # Recent News
 * May 2020: [ThunderGBM](https://github.com/Xtra-Computing/thundergbm/blob/master/thundergbm-full.pdf) accepted to JMLR.
+* Apr 2020: Serving as a program committee member of NeurIPS 2020. 
 * Feb 2020: Attended IBM Federated Learning Workshop and AAAI 2020.
 * Jan 2020: Received research achievement award from NUS Computing.
 * Nov 2019: Two papers accepted to AAAI 2020.
