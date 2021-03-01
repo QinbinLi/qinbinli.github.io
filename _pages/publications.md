@@ -15,8 +15,12 @@ author_profile: true
 <i>arXiv preprint</i>. [[PDF]](https://arxiv.org/pdf/2102.02079.pdf)
 
 <b>[A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection](https://arxiv.org/abs/1907.09693) </b>  <br>
-<b>Qinbin Li</b>, Zeyi Wen, Zhaomin Wu, Sixu Hu, Naibo Wang, Bingsheng He<br>
+<b>Qinbin Li</b>, Zeyi Wen, Zhaomin Wu, Sixu Hu, Naibo Wang, Yuan Li, Xu Liu, Bingsheng He<br>
 <i>arXiv preprint</i>. [[PDF]](https://arxiv.org/pdf/1907.09693.pdf)
+
+<b>[The OARF Benchmark Suite: Characterization and Implications for Federated Learning Systems](https://arxiv.org/pdf/2006.07856.pdf) </b> <br>
+Sixu Hu, Yuan Li, Xu Liu, <b>Qinbin Li</b>, Zhaomin Wu, Bingsheng He<br>
+<i>arXiv preprint</i>. [[PDF]](https://arxiv.org/pdf/2006.07856.pdf)
 
 # 2021
 <b>Model-Contrastive Federated Learning </b> <br>
