@@ -11,7 +11,7 @@ author_profile: true
 <i>arXiv preprint</i>. [[PDF]](https://arxiv.org/pdf/2010.01017.pdf)
 
 <b>[Federated Learning on Non-IID Data Silos: An Experimental Study](https://arxiv.org/pdf/2102.02079.pdf) </b> <br>
-<b>Qinbin Li*</b>, Yiqun Diao*, Quan Chen, Bingsheng He<br>
+<b>Qinbin Li\*</b>, Yiqun Diao*, Quan Chen, Bingsheng He<br>
 <i>arXiv preprint</i>. [[PDF]](https://arxiv.org/pdf/2102.02079.pdf)
 
 <b>[A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection](https://arxiv.org/abs/1907.09693) </b>  <br>
