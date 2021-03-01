@@ -5,7 +5,24 @@ permalink: /publications/
 author_profile: true
 ---
 
+# Preprint
+
+
+
+# 2021
+<b>[Model-Contrastive Federated Learning] </b> <br>
+<b>Qinbin Li</b>, Bingsheng He, Dawn Song<br>
+<i>2021 Conference on Computer Vision and Pattern Recognition</i> <b>CVPR 2021</b>. PDF published later.
+
 # 2020
+<b>[Model-Agnostic Round-Optimal Federated Learning via Knowledge Transfer] </b> <br>
+<b>Qinbin Li</b>, Bingsheng He, Dawn Song<br>
+<i>arXiv preprint</i>. [[PDF]](https://arxiv.org/pdf/2010.01017.pdf)
+
+<b>[Federated Learning on Non-IID Data Silos: An Experimental Study] </b> <br>
+<b>Qinbin Li*</b>, Yiqun Diao*, Quan Chen, Bingsheng He<br>
+<i>arXiv preprint</i>. [[PDF]](https://arxiv.org/pdf/2102.02079.pdf)
+
 <b>[ThunderGBM: Fast GBDTs and Random Forests on GPUs](https://github.com/Xtra-Computing/thundergbm) </b> <br>
 Zeyi Wen, Hanfeng Liu, Jiashuai Shi, <b>Qinbin Li</b>, Bingsheng He, Jian Chen<br>
 <i>Journal of Machine Learning Research</i>. <b>JMLR 2020</b>. [[PDF]](https://github.com/Xtra-Computing/thundergbm/blob/master/thundergbm-full.pdf)
@@ -30,7 +47,7 @@ Zeyi Wen, Hanfeng Liu, Jiashuai Shi, <b>Qinbin Li</b>, Bingsheng He, Jian Chen<b
 
 <b>[Exploiting GPUs for Efficient Gradient Boosting Decision Tree Training](https://zeyiwen.github.io/papers/tpds19_gpugbdt.pdf) </b> <br>
 Zeyi Wen, Jiashuai Shi, Bingsheng He, Jian Chen, Kotagiri Ramamohanarao, <b>Qinbin Li</b><br>
-<i>IEEE Transactions on Parallel and Distributed Systems</i>. <b>TPDS 2019</b>. [[PDF]](https://zeyiwen.github.io/papers/tpds19_gpugbdt.pdf)
+<i>IEEE Transactions on Parallel and Distributed Systems</i>. <b>TPDS 2019 best paper</b>. [[PDF]](https://zeyiwen.github.io/papers/tpds19_gpugbdt.pdf)
 
 # 2018
 <b>[ThunderSVM: A Fast SVM Library on GPUs and CPUs](http://www.jmlr.org/papers/volume19/17-740/17-740.pdf) </b>  <br>
