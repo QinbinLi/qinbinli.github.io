@@ -10,16 +10,16 @@ author_profile: true
 
 
 # 2021
-<b>[Model-Contrastive Federated Learning] </b> <br>
+<b>Model-Contrastive Federated Learning </b> <br>
 <b>Qinbin Li</b>, Bingsheng He, Dawn Song<br>
 <i>2021 Conference on Computer Vision and Pattern Recognition</i> <b>CVPR 2021</b>. PDF published later.
 
 # 2020
-<b>[Model-Agnostic Round-Optimal Federated Learning via Knowledge Transfer] </b> <br>
+<b>[Model-Agnostic Round-Optimal Federated Learning via Knowledge Transfer](https://arxiv.org/pdf/2010.01017.pdf) </b> <br>
 <b>Qinbin Li</b>, Bingsheng He, Dawn Song<br>
 <i>arXiv preprint</i>. [[PDF]](https://arxiv.org/pdf/2010.01017.pdf)
 
-<b>[Federated Learning on Non-IID Data Silos: An Experimental Study] </b> <br>
+<b>[Federated Learning on Non-IID Data Silos: An Experimental Study](https://arxiv.org/pdf/2102.02079.pdf) </b> <br>
 <b>Qinbin Li*</b>, Yiqun Diao*, Quan Chen, Bingsheng He<br>
 <i>arXiv preprint</i>. [[PDF]](https://arxiv.org/pdf/2102.02079.pdf)
 
