@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-I am a second-year Ph.D. student in [Department of Computer Science](https://www.comp.nus.edu.sg/about/depts/cs/) at [National University of Singapore](http://www.nus.edu.sg/), advised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/).
+I am a third-year Ph.D. student in [Department of Computer Science](https://www.comp.nus.edu.sg/about/depts/cs/) at [National University of Singapore](http://www.nus.edu.sg/), advised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/).
 
 I obtained my bachelor's degree from ACM Class, [Huazhong University of Science and Technology](http://english.hust.edu.cn/). My undergraduate research advisors are Prof. [Hai Jin](https://scholar.google.com.sg/citations?user=o02W0aEAAAAJ&hl=en&oi=ao) and Prof. [Song Wu](https://scholar.google.com.sg/citations?user=haCdkCoAAAAJ&hl=en&oi=ao).
 
