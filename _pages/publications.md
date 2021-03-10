@@ -25,7 +25,7 @@ Sixu Hu, Yuan Li, Xu Liu, <b>Qinbin Li</b>, Zhaomin Wu, Bingsheng He<br>
 # 2021
 <b>Model-Contrastive Federated Learning </b> <br>
 <b>Qinbin Li</b>, Bingsheng He, Dawn Song<br>
-<i>The Conference on Computer Vision and Pattern Recognition</i> <b>CVPR 2021</b>. PDF published later.
+<i>The Conference on Computer Vision and Pattern Recognition</i> <b>CVPR 2021</b>. PDF coming soon.
 
 # 2020
 
