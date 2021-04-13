@@ -11,13 +11,13 @@ redirect_from:
 I am a third-year Ph.D. student in the Computer Science Department at [National University of Singapore](http://www.nus.edu.sg/), advised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/).
 Previously, I obtained my bachelor's degree from ACM Class, Huazhong University of Science and Technology. 
 
-My current research interests lie in machine learning, federated learning, and privacy.
+My current research interests lie in machine learning, federated learning, privacy, and systems.
 
 
 # Recent News
 * Apr 2021: Invited to serve as a reviewer for NeurIPS 2021.
 * Mar 2021: One paper accepted to CVPR 2021.
-* Nov 2020: One paper receives TPDS 2019 best paper.
+* Nov 2020: One paper receives TPDS 2019 Best Paper Award.
 * Sep 2020: Invited to serve as a program committee member of AAAI 2021.
 * Jul 2020: Invited to serve as a reviewer of ICLR 2021.
 * May 2020: [ThunderGBM](https://github.com/Xtra-Computing/thundergbm/blob/master/thundergbm-full.pdf) accepted to JMLR.
