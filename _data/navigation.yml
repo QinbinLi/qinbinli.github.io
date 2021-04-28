@@ -6,10 +6,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/
+    #- title: "Talks"
+    #url: /talks/
+
+  - title: "Service"
+    url: /service/
 
   - title: "CV"
     url: /files/CV_QB.pdf
-
-
