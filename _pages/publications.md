@@ -20,7 +20,7 @@ author_profile: true
 
 <b>[The OARF Benchmark Suite: Characterization and Implications for Federated Learning Systems](https://arxiv.org/pdf/2006.07856.pdf) </b> <br>
 Sixu Hu, Yuan Li, Xu Liu, <b>Qinbin Li</b>, Zhaomin Wu, Bingsheng He<br>
-<i>arXiv preprint</i>. [[PDF]](https://arxiv.org/pdf/2006.07856.pdf)[[code](https://github.com/Xtra-Computing/OARF)]
+<i>arXiv preprint</i>. [[PDF]](https://arxiv.org/pdf/2006.07856.pdf)[[code]](https://github.com/Xtra-Computing/OARF)
 
 # 2021
 <b>[Model-Contrastive Federated Learning](https://arxiv.org/pdf/2103.16257.pdf) </b> <br>
