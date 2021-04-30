@@ -15,6 +15,7 @@ My current research interests lie in machine learning, federated learning, priva
 
 
 # Recent News
+* Apr 2021: Two papers accepted to IJCAI 2021.
 * Apr 2021: Invited to serve as a reviewer for NeurIPS 2021.
 * Mar 2021: One paper accepted to CVPR 2021.
 * Nov 2020: One paper receives TPDS 2019 Best Paper Award.
