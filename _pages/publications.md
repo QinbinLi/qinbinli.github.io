@@ -23,11 +23,11 @@ Sixu Hu, Yuan Li, Xu Liu, <b>Qinbin Li</b>, Zhaomin Wu, Bingsheng He<br>
 <i>arXiv preprint</i>. [[PDF]](https://arxiv.org/pdf/2006.07856.pdf)[[code]](https://github.com/Xtra-Computing/OARF)
 
 # 2021
-<b>[Practical One-Shot Federated Learning for Cross-Silo Setting]</b> <br>
+<b>Practical One-Shot Federated Learning for Cross-Silo Setting</b> <br>
 <b>Qinbin Li</b>, Bingsheng He, Dawn Song<br>
 <i>International Joint Conference on Artificial Intelligence</i> <b>IJCAI 2021</b>.
 
-<b>[Challenges and Opportunies of Building Fast GBDT Systems]</b> <br>
+<b>Challenges and Opportunies of Building Fast GBDT Systems</b> <br>
 Zeyi Wen, <b>Qinbin Li</b>, Bingsheng He, Bin Cui<br>
 <i>International Joint Conference on Artificial Intelligence</i> <b>IJCAI 2021 survey track</b>.
 
