@@ -5,7 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
-* PREMIA Best Student Paper Award Finalist, 2021
+* PREMIA Best Student Paper Gold Award, 2021
 * Research Achievement Award, School of Computing, National University of Singapore, 2020
 * TPDS Best Paper Award, 2019
 * Outstanding Graduates, Huazhong University of Science and Technology, 2018
