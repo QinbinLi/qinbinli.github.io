@@ -44,7 +44,7 @@ Zeyi Wen, Hanfeng Liu, Jiashuai Shi, <b>Qinbin Li</b>, Bingsheng He, Jian Chen<b
 
 <b>[Practical Federated Gradient Boosting Decision Trees](https://arxiv.org/abs/1911.04206) </b>  <br>
 <b>Qinbin Li</b>, Zeyi Wen, Bingsheng He<br>
-<i>Thirty-Fourth AAAI Conference on Artificial Intelligence</i>. <b>AAAI 2020</b>. [[PDF]](https://arxiv.org/pdf/1911.04206.pdf)
+<i>Thirty-Fourth AAAI Conference on Artificial Intelligence</i>. <b>AAAI 2020. PREMIA Best Student Paper Gold Award</b>. [[PDF]](https://arxiv.org/pdf/1911.04206.pdf)
 
 <b>[Privacy-Preserving Gradient Boosting Decision Trees](https://arxiv.org/abs/1911.04209) </b>  <br>
 <b>Qinbin Li</b>, Zhaomin Wu, Zeyi Wen, Bingsheng He<br>
