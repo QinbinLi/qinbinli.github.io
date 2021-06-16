@@ -15,13 +15,14 @@ My current research interests lie in machine learning, federated learning, priva
 
 
 # Recent News
+* Jun 2021: Invited to serve as a reviewer for ICLR 2022.
 * May 2021: One paper receives PREMIA Best Student Paper Gold Award 2021.
 * Apr 2021: Two papers accepted to IJCAI 2021.
 * Apr 2021: Invited to serve as a reviewer for NeurIPS 2021.
 * Mar 2021: One paper accepted to CVPR 2021.
 * Nov 2020: One paper receives TPDS 2019 Best Paper Award.
 * Sep 2020: Invited to serve as a program committee member of AAAI 2021.
-* Jul 2020: Invited to serve as a reviewer of ICLR 2021.
+* Jul 2020: Invited to serve as a reviewer for ICLR 2021.
 * May 2020: [ThunderGBM](https://github.com/Xtra-Computing/thundergbm/blob/master/thundergbm-full.pdf) accepted to JMLR.
 * Apr 2020: Invited to serve as a program committee member of NeurIPS 2020. 
 * Feb 2020: Attended IBM Federated Learning Workshop and AAAI 2020.
