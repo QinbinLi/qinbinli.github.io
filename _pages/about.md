@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student in the Computer Science Department at [National University of Singapore](http://www.nus.edu.sg/), advised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/).
+I am a Ph.D. candidate in the Computer Science Department at [National University of Singapore](http://www.nus.edu.sg/), advised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/).
 Previously, I obtained my bachelor's degree from ACM Class, Huazhong University of Science and Technology. 
 
 My current research interests lie in machine learning, federated learning, privacy, and systems.
 
-
 # Recent News
+* Aug 2021: Received research achievement award from NUS computing.
 * Jun 2021: Invited to serve as a reviewer for ICLR 2022.
 * May 2021: One paper receives PREMIA Best Student Paper Gold Award 2021.
 * Apr 2021: Two papers accepted to IJCAI 2021.
