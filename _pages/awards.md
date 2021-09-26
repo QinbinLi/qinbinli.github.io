@@ -5,6 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
+* Google PhD Fellowship, 2021
 * PREMIA Best Student Paper Gold Award, 2021
 * Research Achievement Award, School of Computing, National University of Singapore, 2020, 2021
 * TPDS Best Paper Award, 2019
