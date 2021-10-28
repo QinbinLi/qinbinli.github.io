@@ -14,6 +14,7 @@ Previously, I obtained my bachelor's degree from ACM Class, Huazhong University 
 My current research interests lie in machine learning, federated learning, privacy, and systems.
 
 # Recent News
+* Oct 2021: One paper accepted to TKDE 2021.
 * Sep 2021: Received Google PhD Fellowship 2021.
 * Aug 2021: Received research achievement award from NUS computing.
 * Jun 2021: Invited to serve as a reviewer for ICLR 2022.
