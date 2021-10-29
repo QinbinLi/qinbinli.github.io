@@ -6,13 +6,11 @@ author_profile: true
 ---
 
 # Preprint
-<b>[Model-Agnostic Round-Optimal Federated Learning via Knowledge Transfer](https://arxiv.org/pdf/2010.01017.pdf) </b> <br>
-<b>Qinbin Li</b>, Bingsheng He, Dawn Song<br>
-<i>arXiv preprint</i>. [[PDF]](https://arxiv.org/pdf/2010.01017.pdf)[[code]](https://github.com/QinbinLi/FedKT)
 
 <b>[Federated Learning on Non-IID Data Silos: An Experimental Study](https://arxiv.org/pdf/2102.02079.pdf) </b> <br>
 <b>Qinbin Li\*</b>, Yiqun Diao*, Quan Chen, Bingsheng He (\* denots equal contributions)<br>
 <i>arXiv preprint</i>. [[PDF]](https://arxiv.org/pdf/2102.02079.pdf)[[code]](https://github.com/Xtra-Computing/NIID-Bench)
+
 <b>[The OARF Benchmark Suite: Characterization and Implications for Federated Learning Systems](https://arxiv.org/pdf/2006.07856.pdf) </b> <br>
 Sixu Hu, Yuan Li, Xu Liu, <b>Qinbin Li</b>, Zhaomin Wu, Bingsheng He<br>
 <i>arXiv preprint</i>. [[PDF]](https://arxiv.org/pdf/2006.07856.pdf)[[code]](https://github.com/Xtra-Computing/OARF)
@@ -23,11 +21,11 @@ Sixu Hu, Yuan Li, Xu Liu, <b>Qinbin Li</b>, Zhaomin Wu, Bingsheng He<br>
 <b>Qinbin Li</b>, Zeyi Wen, Zhaomin Wu, Sixu Hu, Naibo Wang, Yuan Li, Xu Liu, Bingsheng He<br>
 <i>IEEE Transactions on Knowledge and Data Engineering</i>. <b>TKDE 2021</b> [[PDF]](https://arxiv.org/pdf/1907.09693.pdf)
 
-<b>Practical One-Shot Federated Learning for Cross-Silo Setting</b> <br>
+<b>[Practical One-Shot Federated Learning for Cross-Silo Setting](https://arxiv.org/pdf/2010.01017.pdf)</b> <br>
 <b>Qinbin Li</b>, Bingsheng He, Dawn Song<br>
 <i>International Joint Conference on Artificial Intelligence</i> <b>IJCAI 2021</b> [[PDF]](https://arxiv.org/pdf/2010.01017.pdf).
 
-<b>Challenges and Opportunies of Building Fast GBDT Systems</b> <br>
+<b>[Challenges and Opportunies of Building Fast GBDT Systems](https://www.ijcai.org/proceedings/2021/0632.pdf)</b> <br>
 Zeyi Wen, <b>Qinbin Li</b>, Bingsheng He, Bin Cui<br>
 <i>International Joint Conference on Artificial Intelligence</i> <b>IJCAI 2021 survey track</b> [[PDF]](https://www.ijcai.org/proceedings/2021/0632.pdf).
 
