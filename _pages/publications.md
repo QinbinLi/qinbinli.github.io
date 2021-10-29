@@ -7,6 +7,10 @@ author_profile: true
 
 # Preprint
 
+<b>[Exploiting Record Similarity for Practical Vertical Federated Learning](https://arxiv.org/pdf/2106.06312.pdf) </b> <br>
+Zhaomin Wu, <b>Qinbin Li</b>, Bingsheng He<br>
+<i>arXiv preprint</i>. [[PDF]](https://arxiv.org/pdf/2106.06312.pdf)
+
 <b>[Federated Learning on Non-IID Data Silos: An Experimental Study](https://arxiv.org/pdf/2102.02079.pdf) </b> <br>
 <b>Qinbin Li\*</b>, Yiqun Diao*, Quan Chen, Bingsheng He (\* denots equal contributions)<br>
 <i>arXiv preprint</i>. [[PDF]](https://arxiv.org/pdf/2102.02079.pdf)[[code]](https://github.com/Xtra-Computing/NIID-Bench)
