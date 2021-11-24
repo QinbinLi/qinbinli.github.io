@@ -15,6 +15,7 @@ My current research interests lie in machine learning, federated learning, priva
 
 # Recent News
 * Nov 2021: One paper accepted to ICDE 2022.
+* Oct 2021: Invited to attend the 4th World Laureates Forum.
 * Oct 2021: One paper accepted to TKDE 2021.
 * Sep 2021: Received Google PhD Fellowship 2021.
 * Aug 2021: Received research achievement award from NUS computing.
