@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Qinbin Li's Homepage"
 title_separator          : "-"
-name                     : &name "Qinbin Li"
+name                     : &name "Qinbin Li (李钦宾)"
 description              : &description "Ph.D. student, Department of Computer Science, National University of Singapore"
 url                      : https://qinbinli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
