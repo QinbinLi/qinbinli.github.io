@@ -18,7 +18,7 @@ Sixu Hu, Yuan Li, Xu Liu, <b>Qinbin Li</b>, Zhaomin Wu, Bingsheng He<br>
 # 2021
 
 <b>[Federated Learning on Non-IID Data Silos: An Experimental Study](https://arxiv.org/pdf/2102.02079.pdf) </b> <br>
-<b>Qinbin Li\*</b>, Yiqun Diao*, Quan Chen, Bingsheng He (\* denots equal contributions)<br>
+<b>Qinbin Li\*</b>, Yiqun Diao*, Quan Chen, Bingsheng He (\* denotes equal contributions)<br>
 <i>IEEE International Conference on Data Engineering</i>. <b>ICDE 2022</b> [[PDF]](https://arxiv.org/pdf/2102.02079.pdf)[[code]](https://github.com/Xtra-Computing/NIID-Bench)
 
 
