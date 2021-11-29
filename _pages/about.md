@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the Computer Science Department at [National University of Singapore](http://www.nus.edu.sg/), advised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/).
-Previously, I obtained my bachelor's degree from ACM Class, Huazhong University of Science and Technology. I received Google PhD Fellowship 2021. 
+I am a final-year Ph.D. candidate in the Computer Science Department at [National University of Singapore](http://www.nus.edu.sg/), advised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/).
+Previously, I obtained my bachelor's degree from ACM Class, Huazhong University of Science and Technology in 2018. I received Google PhD Fellowship 2021. 
 
 My current research interests lie in machine learning, federated learning, privacy, and systems.
 
