@@ -7,10 +7,12 @@ author_profile: true
 
 ## Program Committee Member / Reviewer
 * NeurIPS 2020, 2021
-* ICLR 2021
+* ICLR 2021, 2022
 * AAAI 2021
 
 ## Journal Reviewer
+* IEEE TDSC
+* IEEE TNNLS
 * ACM TIST
 
 ## Tutorial
