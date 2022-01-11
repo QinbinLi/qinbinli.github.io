@@ -5,10 +5,8 @@ permalink: /service/
 author_profile: true
 ---
 
-## Program Committee Member / Reviewer
-* NeurIPS 2020, 2021
-* ICLR 2021, 2022
-* AAAI 2021
+## Conference Program Committee Member / Reviewer
+* AAAI, ICLR, ICML, NeurIPS
 
 ## Journal Reviewer
 * IEEE TDSC
