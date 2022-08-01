@@ -14,6 +14,8 @@ Previously, I obtained my bachelor's degree from ACM Class, Huazhong University 
 My current research interests lie in machine learning, federated learning, privacy, and systems.
 
 # Recent News
+* Jul 2022: Invited to serve as a reviewer for ICLR 2023.
+* Jul 2022: Received Dean's Graduate Research Excellence Award.
 * Mar 2022: Invited to serve as a reviewer for NeurIPS 2022.
 * Jan 2022: Invited to serve as a reviewer for ICML 2022.
 * Nov 2021: One paper accepted to ICDE 2022.
