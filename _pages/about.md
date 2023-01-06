@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year Ph.D. candidate in the Computer Science Department at [National University of Singapore](http://www.nus.edu.sg/), advised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/).
-Previously, I obtained my bachelor's degree from ACM Class, Huazhong University of Science and Technology in 2018. I received Google PhD Fellowship 2021. 
+I'll join UC Berkeley as a postdoc in Jan 2023, advised by Prof. [Dawn Song] (http://people.eecs.berkeley.edu/~dawnsong/). I obtained the Ph.D. degree in Computer Science from [National University of Singapore](http://www.nus.edu.sg/) in 2022, advised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/).
+I obtained my bachelor's degree from ACM Class, Huazhong University of Science and Technology in 2018. 
+I received Google PhD Fellowship 2021. 
 
 My current research interests lie in machine learning, federated learning, privacy, and systems.
 
