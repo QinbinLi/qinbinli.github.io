@@ -8,15 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I'll join UC Berkeley as a postdoc in Jan 2023, advised by Prof. [Dawn Song] (http://people.eecs.berkeley.edu/~dawnsong/). I obtained the Ph.D. degree in Computer Science from [National University of Singapore](http://www.nus.edu.sg/) in 2022, advised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/).
+I'm a postdoc at UC Berkeley, advised by Prof. [Dawn Song] (http://people.eecs.berkeley.edu/~dawnsong/). I obtained the Ph.D. degree in Computer Science from [National University of Singapore](http://www.nus.edu.sg/) in 2022, advised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/).
 I obtained my bachelor's degree from ACM Class, Huazhong University of Science and Technology in 2018. 
 I received Google PhD Fellowship 2021. 
 
 My current research interests lie in machine learning, federated learning, privacy, and systems.
 
 # Recent News
+* Jan 2023: One paper accepted to ICLR 2023.
+* Dec 2022: Invited to serve as a reviewer for ICML 2023.
 * Sep 2022: Passed my PhD defense!
-* Sep 2022: One paper accepted to NeurIPS 2022.
+<!-- * Sep 2022: One paper accepted to NeurIPS 2022.
 * Jul 2022: Invited to serve as a reviewer for ICLR 2023.
 * Jul 2022: Received Dean's Graduate Research Excellence Award.
 * Mar 2022: Invited to serve as a reviewer for NeurIPS 2022.
@@ -44,5 +46,5 @@ My current research interests lie in machine learning, federated learning, priva
 * May 2019: One paper accepted to IEEE TPDS.
 * Mar 2019: [ThunderGBM](https://github.com/Xtra-Computing/thundergbm) (led by Dr. [Zeyi Wen](https://zeyiwen.github.io/) and Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/)) released.
 * Aug 2018: I started my Ph.D. study at NUS.
-* Jul 2018: [ThunderSVM](https://github.com/Xtra-Computing/thundersvm) (led by Dr. [Zeyi Wen](https://zeyiwen.github.io/) and Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/)) released and published to JMLR.
+* Jul 2018: [ThunderSVM](https://github.com/Xtra-Computing/thundersvm) (led by Dr. [Zeyi Wen](https://zeyiwen.github.io/) and Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/)) released and published to JMLR. -->
 
