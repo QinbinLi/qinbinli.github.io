@@ -18,7 +18,7 @@ My current research interests lie in machine learning, federated learning, priva
 * Jan 2023: One paper accepted to ICLR 2023.
 * Dec 2022: Invited to serve as a reviewer for ICML 2023.
 * Sep 2022: Passed my PhD defense!
-* 
+ 
 <!-- * Sep 2022: One paper accepted to NeurIPS 2022. -->
 <!-- * Jul 2022: Invited to serve as a reviewer for ICLR 2023. -->
 <!-- * Jul 2022: Received Dean's Graduate Research Excellence Award. -->
