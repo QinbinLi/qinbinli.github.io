@@ -7,16 +7,40 @@ author_profile: true
 
 # Preprint
 
-<b>[Exploiting Record Similarity for Practical Vertical Federated Learning](https://arxiv.org/pdf/2106.06312.pdf) </b> <br>
-Zhaomin Wu, <b>Qinbin Li</b>, Bingsheng He<br>
-<i>arXiv preprint</i>. [[PDF]](https://arxiv.org/pdf/2106.06312.pdf)
+<b>[Adversarial Collaborative Learning on Non-IID Features](https://openreview.net/forum?id=dOxe6utTKC) </b> <br>
+<b>Qinbin Li</b>, Bingsheng He, Dawn Song<br>
+<i>openreview</i>. [[PDF]](https://openreview.net/forum?id=dOxe6utTKC)
+
+<b>[Unifed: A benchmark for federated learning frameworks](https://arxiv.org/pdf/2207.10308.pdf) </b> <br>
+Xiaoyuan Liu, Tianneng Shi, Chulin Xie, <b>Qinbin Li</b>, Kangping Hu, Haoyu Kim, Xiaojun Xu, Bo Li, Dawn Song<br>
+<i>arxiv</i>. [[PDF]](https://arxiv.org/pdf/2207.10308.pdf)[[code]](https://github.com/AI-secure/FLBenchmark-toolkit)
+
+
+# 2023
+
+<b>FedTree: A Federated Learning System For Trees </b> <br>
+<b>Qinbin Li</b>, Zhaomin Wu, Yanzheng Cai, Yuxuan Han, Ching Man Yung, Tianyuan Fu, Bingsheng He <br>
+<i>Sixth Conference on Machine Learning and Systems</i>. <b>MLSys 2023</b> [[code]](https://github.com/Xtra-Computing/FedTree)
+
+<b>[Towards Addressing Label Skews in One-Shot Federated Learning](https://openreview.net/forum?id=rzrqh85f4Sc) </b> <br>
+Yiqun Diao, <b>Qinbin Li</b>, Bingsheng He <br>
+<i>The Eleventh International Conference on Learning Representations</i>. <b>ICLR 2023</b> [[PDF]](https://openreview.net/forum?id=rzrqh85f4Sc)[[code]](https://github.com/Xtra-Computing/FedOV)
+
+
 
 # 2022
 
+<b>[A Coupled Design of Exploiting Record Similarity for Practical Vertical Federated Learning](https://arxiv.org/pdf/2106.06312.pdf)</b> <br>
+Zhaomin Wu, <b>Qinbin Li</b>, Bingsheng He <br>
+<i>Thirty-sixth Conference on Neural Information Processing Systems.</i> <b>NeurIPS 2022</b> [[PDF]](https://arxiv.org/pdf/2106.06312.pdf)[[code]](https://github.com/Xtra-Computing/FedSim)
+
 <b>[Federated Learning on Non-IID Data Silos: An Experimental Study](https://arxiv.org/pdf/2102.02079.pdf) </b> <br>
-<b>Qinbin Li\*</b>, Yiqun Diao*, Quan Chen, Bingsheng He (\* denotes equal contributions)<br>
+<b>Qinbin Li</b>, Yiqun Diao*, Quan Chen, Bingsheng He (\* denotes equal contributions)<br>
 <i>IEEE International Conference on Data Engineering</i>. <b>ICDE 2022</b> [[PDF]](https://arxiv.org/pdf/2102.02079.pdf)[[code]](https://github.com/Xtra-Computing/NIID-Bench)
 
+<b>[Practical Vertical Federated Learning with Unsupervised Representation Learning](https://arxiv.org/pdf/2208.10278.pdf)</b> <br>
+Zhaomin Wu, <b>Qinbin Li</b>, Bingsheng He <br>
+<i>IEEE Transactions on Big Data</i>. <b>TBD 2022</b> [[PDF]](https://arxiv.org/pdf/2208.10278.pdf)[[code]](https://github.com/JerryLife/FedOnce)
 
 # 2021
 
@@ -30,7 +54,7 @@ Sixu Hu, Yuan Li, Xu Liu, <b>Qinbin Li</b>, Zhaomin Wu, Bingsheng He<br>
 
 <b>[Practical One-Shot Federated Learning for Cross-Silo Setting](https://arxiv.org/pdf/2010.01017.pdf)</b> <br>
 <b>Qinbin Li</b>, Bingsheng He, Dawn Song<br>
-<i>International Joint Conference on Artificial Intelligence</i> <b>IJCAI 2021</b> [[PDF]](https://arxiv.org/pdf/2010.01017.pdf).
+<i>International Joint Conference on Artificial Intelligence</i> <b>IJCAI 2021</b> [[PDF]](https://arxiv.org/pdf/2010.01017.pdf)[[code]](https://github.com/QinbinLi/FedKT)
 
 <b>[Challenges and Opportunies of Building Fast GBDT Systems](https://www.ijcai.org/proceedings/2021/0632.pdf)</b> <br>
 Zeyi Wen, <b>Qinbin Li</b>, Bingsheng He, Bin Cui<br>
