@@ -18,6 +18,10 @@ Xiaoyuan Liu, Tianneng Shi, Chulin Xie, <b>Qinbin Li</b>, Kangping Hu, Haoyu Kim
 
 # 2023
 
+<b>DeltaBoost: Gradient Boosting Decision Trees with Efficient Machine Unlearning </b> <br>
+Zhaomin Wu, Junhui Zhu, <b>Qinbin Li</b>, Bingsheng He <br>
+<i>The 2023 International Conference on Management of Data</i>. <b>SIGMOD 2023</b>
+
 <b>FedTree: A Federated Learning System For Trees </b> <br>
 <b>Qinbin Li</b>, Zhaomin Wu, Yanzheng Cai, Yuxuan Han, Ching Man Yung, Tianyuan Fu, Bingsheng He <br>
 <i>Sixth Conference on Machine Learning and Systems</i>. <b>MLSys 2023</b> [[code]](https://github.com/Xtra-Computing/FedTree)
