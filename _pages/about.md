@@ -15,6 +15,7 @@ I received Google PhD Fellowship 2021.
 My current research interests lie in machine learning, federated learning, privacy, high-performance computing, and systems.
 
 # Recent News
+* Mar 2023: Invited to serve as a reviewer for NeurIPS 2023.
 * Feb 2023: One paper accepted to SIGMOD 2023.
 * Feb 2023: One paper accepted to MLSys 2023.
 * Feb 2023: Start my postdoc at UC Berkeley!
