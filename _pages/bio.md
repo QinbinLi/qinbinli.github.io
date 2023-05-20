@@ -13,7 +13,7 @@ My research interests include machine learning, federated learning, and privacy.
 
 ## Education
 
-* Ph.D. - Computer Science (Aug 2018 - Present)
+* Ph.D. - Computer Science (Aug 2018 - Dec 2022)
     * National University of Singapore
 
 * B.Eng. - Computer Science (Sep 2014 - Jun 2018)

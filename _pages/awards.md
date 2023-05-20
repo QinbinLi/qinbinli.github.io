@@ -4,7 +4,7 @@ title: "Awards"
 permalink: /awards/
 author_profile: true
 ---
-
+* Dean's Graduate Research Excellence Award, 2022.
 * Google PhD Fellowship, 2021
 * PREMIA Best Student Paper Gold Award, 2021
 * Research Achievement Award, School of Computing, National University of Singapore, 2020, 2021
