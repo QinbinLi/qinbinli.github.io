@@ -13,7 +13,7 @@ Xiaoyuan Liu, Tianneng Shi, Chulin Xie, <b>Qinbin Li</b>, Kangping Hu, Haoyu Kim
 
 # 2023
 
-<b>[Adversarial Collaborative Learning on Non-IID Features](https://openreview.net/forum?id=dOxe6utTKC) </b> <br>
+<b>Adversarial Collaborative Learning on Non-IID Features </b> <br>
 <b>Qinbin Li</b>, Bingsheng He, Dawn Song<br>
 <i>Fortieth International Conference on Machine Learning</i>. <b>ICML 2023</b>
 
