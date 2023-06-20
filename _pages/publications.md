@@ -12,6 +12,9 @@ Xiaoyuan Liu, Tianneng Shi, Chulin Xie, <b>Qinbin Li</b>, Kangping Hu, Haoyu Kim
 
 
 # 2023
+<b>Communication-Efficient Generalized Neuron Matching for Federated Learning </b> <br>
+Sixu Hu, <b>Qinbin Li</b>, Bingsheng He <br>
+<i>52nd International Conference on Parallel Processing</i>. <b>ICPP 2023</b>
 
 <b>Adversarial Collaborative Learning on Non-IID Features </b> <br>
 <b>Qinbin Li</b>, Bingsheng He, Dawn Song<br>
