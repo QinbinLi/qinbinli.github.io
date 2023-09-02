@@ -15,6 +15,8 @@ I received Google PhD Fellowship 2021.
 My current research interests lie in machine learning, federated learning, privacy, high-performance computing, and systems.
 
 # Recent News
+* Sep 2023: One paper accepted to CCS 2023.
+* Aug 2023: Invited to serve as a reviewer for ICLR 2024.
 * Jul 2023: One paper accepted to S&P 2024.
 * Jun 2023: Invited to serve as a reviewer for ICDE 2024.
 * Jun 2023: One paper accepted to ICPP 2023.
