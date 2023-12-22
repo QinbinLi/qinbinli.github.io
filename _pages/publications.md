@@ -21,7 +21,7 @@ Yiqun Diao, <b>Qinbin Li</b>, Bingsheng He <br>
 
 <b>SoK: Privacy-Preserving Data Synthesis </b> <br>
 Yuzheng Hu, Fan Wu, <b>Qinbin Li</b>, Yunhui Long, Gonzalo Munilla Garrido, Chang Ge, Bolin Ding, David Forsyth, Bo Li, Dawn Song <br>
-<i>45th IEEE Symposium on Security and Privacy</i>. <b>S\&P 2024</b>
+<i>45th IEEE Symposium on Security and Privacy</i>. <b>SP 2024</b>
 
 # 2023
 <b>Unraveling the Connections between Privacy and Certified Robustness in Federated Learning Against Poisoning Attacks </b> <br>
