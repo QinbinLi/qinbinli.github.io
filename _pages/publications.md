@@ -11,21 +11,21 @@ Xiaoyuan Liu, Tianneng Shi, Chulin Xie, <b>Qinbin Li</b>, Kangping Hu, Haoyu Kim
 <i>arxiv</i>. [[PDF]](https://arxiv.org/pdf/2207.10308.pdf)[[code]](https://github.com/AI-secure/FLBenchmark-toolkit)
 
 <b>Effective and Efficient Federated Tree Learning on Hybrid Data </b> <br>
-<b>Qinbin Li</b>, Chulin Xie, Xiaojun Xu, Xiaoyuan Liu, Ce Zhang, Bo Li, Bingsheng He, Dawn Song
+<b>Qinbin Li</b>, Chulin Xie, Xiaojun Xu, Xiaoyuan Liu, Ce Zhang, Bo Li, Bingsheng He, Dawn Song <br>
 [[PDF]](https://openreview.net/pdf?id=py4ZV2qYQI)
 
 # 2024
 <b>Exploiting Label Skews in Federated Learning with Model Concatenation </b> <br>
-Yiqun Diao, <b>Qinbin Li</b>, Bingsheng He
+Yiqun Diao, <b>Qinbin Li</b>, Bingsheng He <br>
 <i>The 38th Annual AAAI Conference on Artificial Intelligence</i>. <b>AAAI 2024</b>
 
 <b>SoK: Privacy-Preserving Data Synthesis </b> <br>
-Yuzheng Hu, Fan Wu, <b>Qinbin Li</b>, Yunhui Long, Gonzalo Munilla Garrido, Chang Ge, Bolin Ding, David Forsyth, Bo Li, Dawn Song
+Yuzheng Hu, Fan Wu, <b>Qinbin Li</b>, Yunhui Long, Gonzalo Munilla Garrido, Chang Ge, Bolin Ding, David Forsyth, Bo Li, Dawn Song <br>
 <i>45th IEEE Symposium on Security and Privacy</i>. <b>S&P 2024</b>
 
 # 2023
 <b>Unraveling the Connections between Privacy and Certified Robustness in Federated Learning Against Poisoning Attacks </b> <br>
-Chulin Xie, Yunhui Long, Pin-Yu Chen, <b>Qinbin Li</b>, Sanmi Koyejo, Bo Li
+Chulin Xie, Yunhui Long, Pin-Yu Chen, <b>Qinbin Li</b>, Sanmi Koyejo, Bo Li <br>
 <i>ACM Conference on Computer and Communications Security</i>. <b>CCS 2023</b>
 
 <b>Communication-Efficient Generalized Neuron Matching for Federated Learning </b> <br>
