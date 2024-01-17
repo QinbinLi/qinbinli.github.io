@@ -61,7 +61,7 @@ Zhaomin Wu, <b>Qinbin Li</b>, Bingsheng He <br>
 <i>Thirty-sixth Conference on Neural Information Processing Systems.</i> <b>NeurIPS 2022</b> [[PDF]](https://arxiv.org/pdf/2106.06312.pdf)[[code]](https://github.com/Xtra-Computing/FedSim)
 
 <b>[Federated Learning on Non-IID Data Silos: An Experimental Study](https://arxiv.org/pdf/2102.02079.pdf) </b> <br>
-<b>Qinbin Li*</b>, Yiqun Diao*, Quan Chen, Bingsheng He (\* denotes equal contributions)<br>
+<b>Qinbin Li</b>*, Yiqun Diao*, Quan Chen, Bingsheng He (\* denotes equal contributions)<br>
 <i>IEEE International Conference on Data Engineering</i>. <b>ICDE 2022</b> [[PDF]](https://arxiv.org/pdf/2102.02079.pdf)[[code]](https://github.com/Xtra-Computing/NIID-Bench)
 
 <b>[Practical Vertical Federated Learning with Unsupervised Representation Learning](https://arxiv.org/pdf/2208.10278.pdf)</b> <br>
