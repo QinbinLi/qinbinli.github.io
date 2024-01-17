@@ -14,5 +14,5 @@ main:
   - title: "Service"
     url: /service/
 
-      #- title: "CV"
-      #url: /files/CV_QB.pdf
+  - title: "CV"
+      url: /files/CV_QB.pdf
