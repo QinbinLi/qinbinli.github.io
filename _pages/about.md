@@ -15,6 +15,7 @@ I received Google PhD Fellowship 2021.
 My current research interests lie in big data, federated learning, privacy, and systems.
 
 # Recent News
+* Jan 2024: One paper accepted to WWW 2024.
 * Jan 2024: One paper accepted to ICLR 2024.
 * Jan 2024: One paper accepted to VLDB 2024.
 * Dec 2023: One paper accepted to AAAI 2024.
