@@ -11,7 +11,7 @@ I'm a postdoc at UC Berkeley, advised by Prof. [Dawn Song](http://people.eecs.be
 I obtained my bachelor's degree from ACM Class, Huazhong University of Science and Technology in 2018, advised by Prof. Hai Jin and Prof. Song Wu. 
 I received Google PhD Fellowship 2021. 
 
-My current research interests lie in big data, federated learning, privacy, and systems.
+My current research interests lie in trustworthy machine learning, federated learning, privacy, and systems.
 
 # Recent News
 * Feb 2024: Invited to serve as a reviewer for SIGKDD 2024. 
