@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I'm a postdoc at UC Berkeley, advised by Prof. [Dawn Song](http://people.eecs.berkeley.edu/~dawnsong/). I obtained the Ph.D. degree in Computer Science from National University of Singapore in 2022, advised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/).
-I obtained my bachelor's degree from ACM Class, Huazhong University of Science and Technology in 2018, advised by Prof. Hai Jin and Prof. Song Wu. 
+I obtained my bachelor's degree from ACM Class, Huazhong University of Science and Technology in 2018. 
 I received Google PhD Fellowship 2021. 
 
 My current research interests lie in trustworthy machine learning, federated learning, privacy, and systems.
