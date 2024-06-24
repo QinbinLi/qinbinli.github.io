@@ -14,6 +14,7 @@ I received Google PhD Fellowship 2021.
 My current research interests lie in trustworthy machine learning, federated learning, privacy, and systems.
 
 # Recent News
+* Jun 2024: One paper received SIGMOD 2023 Honorable Mention for Best Artifact.
 * Feb 2024: Invited to serve as a reviewer for SIGKDD 2024. 
 * Feb 2024: One paper accepted to SaTML 2024.
 * Jan 2024: One paper accepted to WWW 2024.
