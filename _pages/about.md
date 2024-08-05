@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a postdoc at National University of Singapore. I obtained the Ph.D. degree in Computer Science from National University of Singapore in 2022, advised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/).
+I'm a research fellow at National University of Singapore. I obtained the Ph.D. degree in Computer Science from National University of Singapore in 2022, advised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/).
 I obtained my bachelor's degree from ACM Class, Huazhong University of Science and Technology in 2018. 
 I received Google PhD Fellowship 2021. 
 
