@@ -14,6 +14,7 @@ I received Google PhD Fellowship 2021.
 My current research interests lie in trustworthy machine learning, federated learning, privacy, and systems.
 
 # Recent News
+* Aug 2024: One paper received VLDB 2024 Best Research Paper Nomination!
 * Jun 2024: One paper accepted to VLDB 2024.
 * Jun 2024: One paper received SIGMOD 2023 Honorable Mention for Best Artifact.
 * Feb 2024: Invited to serve as a reviewer for SIGKDD 2024. 
@@ -32,9 +33,9 @@ My current research interests lie in trustworthy machine learning, federated lea
 * Mar 2023: Invited to serve as a reviewer for NeurIPS 2023.
 * Feb 2023: One paper accepted to SIGMOD 2023.
 * Feb 2023: One paper accepted to MLSys 2023.
-* Feb 2023: Start my postdoc at UC Berkeley!
+<!-- * Feb 2023: Start my postdoc at UC Berkeley! -->
 * Jan 2023: One paper accepted to ICLR 2023.
-* Dec 2022: Invited to serve as a reviewer for ICML 2023.
+<!-- * Dec 2022: Invited to serve as a reviewer for ICML 2023. -->
 * Sep 2022: Passed my PhD defense!
  
 <!-- * Sep 2022: One paper accepted to NeurIPS 2022. -->
