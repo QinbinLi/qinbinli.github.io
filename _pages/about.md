@@ -11,7 +11,7 @@ I'm a research fellow at National University of Singapore. I was a postdoc at UC
 I obtained my bachelor's degree from ACM Class, Huazhong University of Science and Technology in 2018. 
 I received Google PhD Fellowship 2021. 
 
-My current research interests lie in federated learning, large language models, and systems.
+My current research interests lie in federated learning, large language models, and machine learning systems.
 
 # Recent News
 * Sep 2024: One paper accepted to NeurIPS 2024.
