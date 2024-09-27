@@ -7,13 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm a research fellow at National University of Singapore. I obtained the Ph.D. degree in Computer Science from National University of Singapore in 2022, advised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/).
+I'm a research fellow at National University of Singapore. I was a postdoc at UC Berkeley, advised by Prof. [Dawn Song](https://dawnsong.io/). I obtained the Ph.D. degree in Computer Science from National University of Singapore in 2022, advised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/).
 I obtained my bachelor's degree from ACM Class, Huazhong University of Science and Technology in 2018. 
 I received Google PhD Fellowship 2021. 
 
-My current research interests lie in trustworthy machine learning, federated learning, privacy, and systems.
+My current research interests lie in federated learning, large language models, and systems.
 
 # Recent News
+* Sep 2024: One paper accepted to NeurIPS 2024.
 * Aug 2024: One paper received VLDB 2024 Best Research Paper Nomination!
 * Jun 2024: One paper accepted to VLDB 2024.
 * Jun 2024: One paper received SIGMOD 2023 Honorable Mention for Best Artifact.
