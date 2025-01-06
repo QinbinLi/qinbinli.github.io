@@ -7,13 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm a research fellow at National University of Singapore. I was a postdoc at UC Berkeley, advised by Prof. [Dawn Song](https://dawnsong.io/). I obtained the Ph.D. degree in Computer Science from National University of Singapore in 2022, advised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/).
+I'm a Professor at School of Computer Science & Technology, Huazhong University of Science and Technology. I was a postdoc at UC Berkeley and research fellow at National University of Singapore. I obtained the Ph.D. degree in Computer Science from National University of Singapore in 2022, advised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/).
 I obtained my bachelor's degree from ACM Class, Huazhong University of Science and Technology in 2018. 
 I received Google PhD Fellowship 2021. 
 
 My current research interests lie in federated learning, large language models, and machine learning systems.
 
 # Recent News
+* Dec 2024: One paper accepted to AAAI 2025.
 * Sep 2024: One paper accepted to NeurIPS 2024.
 * Aug 2024: One paper received VLDB 2024 Best Research Paper Nomination!
 * Jun 2024: One paper accepted to VLDB 2024.
@@ -23,21 +24,21 @@ My current research interests lie in federated learning, large language models, 
 * Jan 2024: One paper accepted to WWW 2024.
 * Jan 2024: One paper accepted to ICLR 2024.
 * Jan 2024: One paper accepted to VLDB 2024.
-* Dec 2023: One paper accepted to AAAI 2024.
-* Dec 2023: Invited to serve as a reviewer for ICML 2024.
-* Sep 2023: One paper accepted to CCS 2023.
-* Aug 2023: Invited to serve as a reviewer for ICLR 2024.
-* Jul 2023: One paper accepted to S&P 2024.
-* Jun 2023: Invited to serve as a reviewer for ICDE 2024.
-* Jun 2023: One paper accepted to ICPP 2023.
-* Apr 2023: One paper accepted to ICML 2023.
-* Mar 2023: Invited to serve as a reviewer for NeurIPS 2023.
-* Feb 2023: One paper accepted to SIGMOD 2023.
-* Feb 2023: One paper accepted to MLSys 2023.
+<!-- * Dec 2023: One paper accepted to AAAI 2024. -->
+<!-- * Dec 2023: Invited to serve as a reviewer for ICML 2024. -->
+<!-- * Sep 2023: One paper accepted to CCS 2023. -->
+<!-- * Aug 2023: Invited to serve as a reviewer for ICLR 2024. -->
+<!-- * Jul 2023: One paper accepted to S&P 2024. -->
+<!-- * Jun 2023: Invited to serve as a reviewer for ICDE 2024. -->
+<!-- * Jun 2023: One paper accepted to ICPP 2023. -->
+<!-- * Apr 2023: One paper accepted to ICML 2023. -->
+<!-- * Mar 2023: Invited to serve as a reviewer for NeurIPS 2023. -->
+<!-- * Feb 2023: One paper accepted to SIGMOD 2023. -->
+<!-- * Feb 2023: One paper accepted to MLSys 2023. -->
 <!-- * Feb 2023: Start my postdoc at UC Berkeley! -->
-* Jan 2023: One paper accepted to ICLR 2023.
+<!-- * Jan 2023: One paper accepted to ICLR 2023. -->
 <!-- * Dec 2022: Invited to serve as a reviewer for ICML 2023. -->
-* Sep 2022: Passed my PhD defense!
+<!-- * Sep 2022: Passed my PhD defense! -->
  
 <!-- * Sep 2022: One paper accepted to NeurIPS 2022. -->
 <!-- * Jul 2022: Invited to serve as a reviewer for ICLR 2023. -->
