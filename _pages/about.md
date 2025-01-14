@@ -11,7 +11,7 @@ I'm a Professor at School of Computer Science & Technology, Huazhong University 
 I obtained my bachelor's degree from ACM Class, Huazhong University of Science and Technology in 2018. 
 I received Google PhD Fellowship 2021. 
 
-My current research interests lie in federated learning, large language models, and machine learning systems.
+My current research interests lie in systems for distributed learning and foundation models. I'm looking for self-motivated students (especially Master's and PhD students) to join my research group. If you're interested, please send your CV and transcript to liqinbin3@gmail.com
 
 # Recent News
 * Dec 2024: One paper accepted to AAAI 2025.
