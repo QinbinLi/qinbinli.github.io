@@ -15,6 +15,8 @@ My current research interests lie in systems for distributed learning and founda
 <!-- * I'm looking for self-motivated students (especially Master's and PhD students) to join my research group. If you're interested, please send your CV and transcript to liqinbin3@gmail.com -->
 
 # Recent News
+* May 2025: One paper accepted to ACL 2025.
+* May 2025: One paper accepted to ICML 2025.
 * Dec 2024: One paper accepted to AAAI 2025.
 * Sep 2024: One paper accepted to NeurIPS 2024.
 * Aug 2024: One paper received VLDB 2024 Best Research Paper Nomination!
