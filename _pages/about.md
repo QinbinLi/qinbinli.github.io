@@ -15,6 +15,7 @@ My current research interests lie in systems for distributed learning and founda
 <!-- * I'm looking for self-motivated students (especially Master's and PhD students) to join my research group. If you're interested, please send your CV and transcript to liqinbin3@gmail.com -->
 
 # Recent News
+* Nov 2025: Two papers accepted to AAAI 2026. 
 * May 2025: One paper accepted to ACL 2025.
 * May 2025: One paper accepted to ICML 2025.
 * May 2025: One paper accepted to ICDCS 2025.
