@@ -12,7 +12,7 @@ I obtained my bachelor's degree from ACM Class, Huazhong University of Science a
 I received Google PhD Fellowship 2021. 
 
 My current research interests lie in distributed learning and agentic systems. 
-<!-- * I'm looking for self-motivated students (especially Master's and PhD students) to join my research group. If you're interested, please send your CV and transcript to liqinbin3@gmail.com -->
+I'm looking for prospective PhD students starting in Sep 2027 who are interested in doing impactful research to join my group. If you're interested, please email me your CV.
 
 # Recent News
 * May 2026: One paper accepted to SIGKDD 2026.
