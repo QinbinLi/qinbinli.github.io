@@ -16,6 +16,7 @@ My current research interests lie in distributed learning and agentic systems.
 **I'm looking for prospective PhD students starting in Sep 2027 who are interested in doing impactful research to join my group. If you're interested, please email me your CV.**
 
 # Recent News
+* Jul 2026: One paper accepted to SC 2026.
 * May 2026: One paper accepted to SIGKDD 2026.
 * May 2026: One paper accepted to ICML 2026.
 * Apr 2026: One paper accepted to ICDCS 2026.
