@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Professor at School of Computer Science & Technology, Huazhong University of Science and Technology. I was a postdoc at UC Berkeley and research fellow at National University of Singapore. I obtained the Ph.D. degree in Computer Science from National University of Singapore in 2022, advised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/).
+I'm a Professor at School of Computer Science & Technology, Huazhong University of Science and Technology. I was a postdoc at UC Berkeley advised by Prof. [Dawn Song](https://dawnsong.io/). I obtained the Ph.D. degree in Computer Science from National University of Singapore in 2022, advised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/).
 I obtained my bachelor's degree from ACM Class, Huazhong University of Science and Technology in 2018. 
 I received Google PhD Fellowship 2021. 
 
@@ -16,6 +16,7 @@ My current research interests lie in distributed learning and agentic systems.
 **I'm looking for prospective PhD students starting in Sep 2027 who are interested in doing impactful research to join my group. If you're interested, please email me your CV.**
 
 # Recent News
+* Aug 2026: One paper accepted to EMNPL 2026 Main.
 * Jul 2026: One paper accepted to SC 2026.
 * May 2026: One paper accepted to SIGKDD 2026.
 * May 2026: One paper accepted to ICML 2026.
