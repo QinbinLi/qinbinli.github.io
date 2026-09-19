@@ -16,6 +16,7 @@ My current research interests lie in distributed learning, agentic systems, and 
 **I'm looking for prospective PhD students starting in Sep 2027 who are interested in doing impactful research to join my group. Students from non-CS backgrounds are also very welcome, especially those with experience in AI or an interest in applying AI to scientific problems. If you're interested, please email me your CV.**
 
 # Recent News
+* Sep 2026: Two papers accepted to ATC 2026.
 * Aug 2026: One paper accepted to EMNPL 2026 Main.
 * Jul 2026: One paper accepted to SC 2026.
 * May 2026: One paper accepted to SIGKDD 2026.
