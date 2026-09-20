@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a Professor at School of Computer Science & Technology, Huazhong University of Science and Technology. I was a postdoc at UC Berkeley advised by Prof. [Dawn Song](https://dawnsong.io/). I obtained the Ph.D. degree in Computer Science from National University of Singapore in 2022, advised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/).
 I obtained my bachelor's degree from ACM Class, Huazhong University of Science and Technology in 2018. 
-I received Google PhD Fellowship 2021. 
+I received Google PhD Fellowship 2021 and multiple best paper awards/nomination, including TPDS Best Paper Award, VLDB Best Research Paper Nomination, SIGMOD Honorable Mention for Best Artifact, and PREMIA Best Student Paper Gold Award.I ’m on Stanford University’s list of the World’s Top 2% Scientists.
 
 My current research interests lie in distributed learning, agentic systems, and recursive self-improvement.
 
@@ -17,25 +17,25 @@ My current research interests lie in distributed learning, agentic systems, and 
 
 # Recent News
 * Sep 2026: Two papers accepted to ATC 2026.
-* Aug 2026: One paper accepted to EMNPL 2026 Main.
+* Aug 2026: One paper accepted to EMNLP 2026 Main.
 * Jul 2026: One paper accepted to SC 2026.
 * May 2026: One paper accepted to SIGKDD 2026.
 * May 2026: One paper accepted to ICML 2026.
 * Apr 2026: One paper accepted to ICDCS 2026.
-* Nov 2025: Two papers accepted to AAAI 2026. 
-* May 2025: One paper accepted to ACL 2025.
-* May 2025: One paper accepted to ICML 2025.
-* May 2025: One paper accepted to ICDCS 2025.
-* Dec 2024: One paper accepted to AAAI 2025.
-* Sep 2024: One paper accepted to NeurIPS 2024.
-* Aug 2024: One paper received VLDB 2024 Best Research Paper Nomination!
-* Jun 2024: One paper accepted to VLDB 2024.
-* Jun 2024: One paper received SIGMOD 2023 Honorable Mention for Best Artifact.
-* Feb 2024: Invited to serve as a reviewer for SIGKDD 2024. 
-* Feb 2024: One paper accepted to SaTML 2024.
-* Jan 2024: One paper accepted to WWW 2024.
-* Jan 2024: One paper accepted to ICLR 2024.
-* Jan 2024: One paper accepted to VLDB 2024.
+<!-- * Nov 2025: Two papers accepted to AAAI 2026. -->
+<!-- * May 2025: One paper accepted to ACL 2025. -->
+<!-- * May 2025: One paper accepted to ICML 2025. -->
+<!-- * May 2025: One paper accepted to ICDCS 2025. -->
+<!-- * Dec 2024: One paper accepted to AAAI 2025. -->
+<!-- * Sep 2024: One paper accepted to NeurIPS 2024. -->
+<!-- * Aug 2024: One paper received VLDB 2024 Best Research Paper Nomination! -->
+<!-- * Jun 2024: One paper accepted to VLDB 2024. -->
+<!-- * Jun 2024: One paper received SIGMOD 2023 Honorable Mention for Best Artifact. -->
+<!-- * Feb 2024: Invited to serve as a reviewer for SIGKDD 2024. --> 
+<!-- * Feb 2024: One paper accepted to SaTML 2024. -->
+<!-- * Jan 2024: One paper accepted to WWW 2024. -->
+<!-- * Jan 2024: One paper accepted to ICLR 2024. -->
+<!-- * Jan 2024: One paper accepted to VLDB 2024. -->
 <!-- * Dec 2023: One paper accepted to AAAI 2024. -->
 <!-- * Dec 2023: Invited to serve as a reviewer for ICML 2024. -->
 <!-- * Sep 2023: One paper accepted to CCS 2023. -->
