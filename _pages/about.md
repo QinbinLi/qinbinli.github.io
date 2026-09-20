@@ -11,7 +11,7 @@ I'm a Professor at School of Computer Science & Technology, Huazhong University 
 I obtained my bachelor's degree from ACM Class, Huazhong University of Science and Technology in 2018. 
 I received Google PhD Fellowship 2021. 
 
-My current research interests lie in distributed learning, agentic systems, and AI4Science.
+My current research interests lie in distributed learning, agentic systems, and recursive self-improvement.
 
 **I'm looking for prospective PhD students starting in Sep 2027 who are interested in doing impactful research to join my group. Students from non-CS backgrounds are also very welcome, especially those with experience in AI or an interest in applying AI to scientific problems. If you're interested, please email me your CV.**
 
