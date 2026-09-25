@@ -17,7 +17,7 @@ My current research interests lie in distributed learning, agentic systems, and 
 
 # Recent News
 * Sep 2026: Two papers accepted to ATC 2026.
-* Aug 2026: One paper accepted to EMNLP 2026 Main.
+* Aug 2026: One paper accepted to EMNLP 2026 Main (Oral).
 * Jul 2026: One paper accepted to SC 2026.
 * May 2026: One paper accepted to SIGKDD 2026.
 * May 2026: One paper accepted to ICML 2026.
